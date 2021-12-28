@@ -1,0 +1,7 @@
+#+TITLE: Post two
+#+date: <2021-12-29 수>
+#+author: Younghwan Nam
+#+email: ssisksl77@gmail.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/site.css" />
+
+css를 사용하는 두번째 테스트.
